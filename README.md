@@ -75,20 +75,6 @@ python3 chanakya.py
 
 ---
 
-# Requirements
-
-- Python 3
-- Nmap
-- Whois
-
-Python libraries:
-- requests
-- pyfiglet
-- rich
-- dnspython
-- python-whois
-
----
 
 # Example Usage
 
