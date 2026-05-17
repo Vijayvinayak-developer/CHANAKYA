@@ -28,11 +28,11 @@ wordlist_dir = input("Enter wordlist path for subdir: ")
 
 
 
-
-
 def Ping():
     spro.run([
         "ping",
+        "-c",
+        "4",
         target_ip
     ])
 
